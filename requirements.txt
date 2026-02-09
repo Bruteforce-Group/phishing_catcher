@@ -1,7 +1,7 @@
-termcolor==1.1.0
-certstream==1.10
-tqdm==4.19.4
-tld==0.7.9
+termcolor==2.1.1
+certstream==1.11
+tqdm==5.1.1
+tld==0.13
 python-Levenshtein==0.27.3
-websocket-client==0.48.0
-PyYAML==5.1
+websocket-client==1.8.0
+PyYAML==6.0.1
